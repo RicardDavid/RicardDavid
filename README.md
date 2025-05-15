@@ -8,8 +8,6 @@
 <h3 font-size="20" align="center">un desorrallador de front end y estudiande del IESTPFFAA.</h3>
  
 
-- 🌱 Actualmente estoy aprendiendo a ser extrovertido 
-
 - 👯 Contigo, mi código nunca da 404. 😌
 
 - 🤝 Trabajo con la seguridad de quien sabe que cada error es solo una oportunidad de mejorar. 🔍
