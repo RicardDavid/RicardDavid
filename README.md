@@ -1,17 +1,49 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pomabamba2001@gmail.com)
+
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Gif" />
 </p>
 
-<h1 align="center">HOla, Soy Ricardo David </h1>
-<h3 font-size="20" align="center">un desorrallador de front end y estudiande del IESTPFFAA.</h3>
- 
+<h1 align="center">¡Hola, soy Ricardo David! 👋</h1>
 
-- 👯 Contigo, mi código nunca da 404. 😌
+<h3 align="center">Desarrollador Front-End 💻 | Estudiante en el IESTP FFAA 🎓</h3>
 
-- 🤝 Trabajo con la seguridad de quien sabe que cada error es solo una oportunidad de mejorar. 🔍
+---
 
-- 💬 Pregúntame sobre diseños de sistemas y filosofía 😆
+<p align="center">
+  Soy un apasionado del desarrollo web que disfruta crear interfaces limpias, funcionales y atractivas.<br>
+  Cada línea de código es una oportunidad para aprender, crecer y construir algo asombroso.
+</p>
 
-- ⚡ Dato curioso: La codificación es una pasión y no una profesión.
+---
+
+### 🛠️ Habilidades
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode" alt="Skill Icons" />
+</p>
+
+---
+
+### ✨ Filosofía de desarrollo
+
+- 🚀 Siempre estoy listo para mejorar y aprender algo nuevo.
+- 🤝 Para mí, cada error es solo una ruta diferente hacia la solución.
+- 🎯 Me enfoco en escribir código limpio, reutilizable y mantenible.
+
+---
+
+<p align="center">
+  📫 ¿Quieres hablar de código o filosofía? Escríbeme:  
+  <br>
+  <a href="mailto:pomabamba2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Gracias por visitar mi perfil 🤓 ¡Vamos a construir algo increíble juntos!
+</p>
