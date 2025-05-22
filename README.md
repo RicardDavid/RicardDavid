@@ -21,7 +21,7 @@
 ### 🛠️ Habilidades
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,laravel,mysql,php,flutter,js,git,github,figma,vscode" alt="Skill Icons" />
 </p>
 
 ---
@@ -33,12 +33,9 @@
 - 🎯 Me enfoco en escribir código limpio, reutilizable y mantenible.
 
 ---
-
 <p align="center">
-  📫 ¿Quieres hablar de código o filosofía? Escríbeme:  
-  <br>
   <a href="mailto:pomabamba2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
