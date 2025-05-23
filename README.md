@@ -7,7 +7,7 @@
 
 <h1 align="center">¡Hola, soy Ricardo David! 👋</h1>
 
-<h3 align="center">Desarrollador Front-End 💻 | Estudiante en el IESTP FFAA 🎓</h3>
+<h3 align="center">Desarrollador Front-End 💻 | Estudiante en el IESTPFFAA 🎓</h3>
 
 ---
 
